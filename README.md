@@ -1,10 +1,6 @@
 Programming using C on a raspberry pi
 
 ---
-Some commands:
-
-
----
 Some examples:
 
 Example 1:
