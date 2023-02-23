@@ -26,6 +26,7 @@ int main() {
 ```
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/124895858/220927728-1fb00fea-ae48-4484-92bb-728858be7de0.png)
 
 Example 2:
