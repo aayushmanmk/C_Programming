@@ -1,4 +1,4 @@
-Programming using C on a raspberry pi
+## Programming using C on a raspberry pi
 
 ---
 Some examples:
